@@ -1,0 +1,31 @@
+# secrets
+.env
+.env.*
+*.secret
+*.token
+*.key
+
+# local generated config
+.mcp.json
+mcp.json
+config.local.json
+settings.local.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# logs / temp
+*.log
+tmp/
+temp/
+out/
+dist/
+build/
+
+# python / node if later used
+__pycache__/
+node_modules/
+.venv/
