@@ -1,5 +1,13 @@
 # Project AGENTS.md
 
+## skills
+.codex\skills下有项目级的skills
+启动时需要识别到
+
+## subagents
+.codex\subagents下有项目级的subagents
+启动时需要识别到并加载
+
 ## 项目简介
 这是一个项目级指导文件，用于补充全局规则。
 
